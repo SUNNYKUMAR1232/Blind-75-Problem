@@ -1,1 +1,2 @@
-<h1 align="center" style=" color:red;"> 75 Leetcode</h1>
+<h1 align="center" style=" color:red;"> Blind-75-Problem
+</h1>
